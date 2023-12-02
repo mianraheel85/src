@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Carousel snapshot test 1`] = `
+<DocumentFragment>
+  <div
+    class="Carousel"
+  >
+    <h1>
+      Test Carousel
+    </h1>
+    <p>
+      No photos
+    </p>
+  </div>
+</DocumentFragment>
+`;
